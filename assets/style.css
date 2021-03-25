@@ -378,6 +378,24 @@ img{
     transform: scale(1.1);
 }
 
+
+/*============================Certificate ====================================*/
+
+
+.cert__text{
+    color: #000;
+    font-size: 16px;
+    line-height: 1.25em;
+    padding: 0 0 1em 0;
+    text-align: justify;
+
+}
+
+.cert__text:hover{
+    text-decoration: underline;
+}
+
+
 /*=============== CONTACT =============*/
 .contact__input{
     width: 100%;
